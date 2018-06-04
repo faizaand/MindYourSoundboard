@@ -1,0 +1,8 @@
+{
+  "name": "MindYourSoundboard",
+  "app_id": "5cb48ff6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
